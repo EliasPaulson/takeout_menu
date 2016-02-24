@@ -4,7 +4,7 @@
   </head>
   <body>
     <h1>SUPERIORITY BURGER</h1>
-    <p><i>*EVERYTHING IS VEGETARIAN A LOT IS ACCIDENTALLY VEGAN JUST ASK!*</i></p>
+    <p>*EVERYTHING IS VEGETARIAN A LOT IS ACCIDENTALLY VEGAN JUST ASK!*</p>
     <h2><i>Menu</i></h2>
     <h3>Burgers/Wraps</h3>
     	<ul>
