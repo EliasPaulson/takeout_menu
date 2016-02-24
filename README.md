@@ -7,21 +7,21 @@
     <h2><i>Menu</i></h2>
     <h3>Burgers/Wraps</h3>
     	<ul>
-    		<li>SUPERIORITY BURGER</li>
-    		<li>SUPERIORITY WRAP / BOAT</li>
-    		<li>SLOPPY DAVE</li>
+    		<li>SUPERIORITY BURGER............$6</li>
+    		<li>SUPERIORITY WRAP / BOAT.......$9</li>
+    		<li>SLOPPY DAVE...................$7</li>
     	</ul>
     <h3>Salads</h3>
     	<ul>
-    		<li>BURNT BROCCOLI SALAD</li>
+    		<li>BURNT BROCCOLI SALAD..........$4</li>
     	</ul>
     <h3>Drinks</h3>
     	<ul>
-    		<li>ARNOLD PALMER</li>
-    		<li>SUPERIORITY WATER</li>
+    		<li>ARNOLD PALMER.................$3</li>
+    		<li>SUPERIORITY WATER...........FREE</li>
     	</ul>
     <h3>Deserts</h3>
     	<ul>
-    		<li>SEASONAL GELATO AND SORBET</li>
+    		<li>SEASONAL GELATO AND SORBET....$4</li>
     	</ul>
    </body>
