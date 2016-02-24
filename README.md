@@ -3,7 +3,7 @@
   <head>
   </head>
   <body>
-  <IMG SRC="http://static1.squarespace.com/static/5584c6b9e4b0867743016574/t/5584c7f1e4b02d6f0db9a977/1453154407999/?format=1500w">
+  <IMG SRC="http://static1.squarespace.com/static/5584c6b9e4b0867743016574/t/5584c7f1e4b02d6f0db9a977/1453154407999/?format=1500w" WIDTH=600>
     <p>*EVERYTHING IS VEGETARIAN A LOT IS ACCIDENTALLY VEGAN JUST ASK!*</p>
     <h2><i>Menu</i></h2>
     <h3>Burgers/Wraps</h3>
